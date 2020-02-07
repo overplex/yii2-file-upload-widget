@@ -22,7 +22,7 @@
     ],
     "require": {
         "yiisoft/yii2": "^2.0.0",
-        "yiisoft/yii2-bootstrap": "^2.0.0",
+        "yiisoft/yii2-bootstrap4": "^2.0.8",
         "2amigos/yii2-gallery-widget": "^1.0",
         "bower-asset/blueimp-file-upload": "^9.9"
     },
